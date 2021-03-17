@@ -16,3 +16,7 @@ p img{
 	height: 1em;
 	width: auto;
 }
+
+abbr.era{
+	font-variant: all-small-caps;
+}
