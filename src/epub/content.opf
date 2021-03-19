@@ -41,14 +41,28 @@
 		<meta property="term" refines="#subject-3">sh2008114937</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2010118636</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Psammead trilogy</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">3</meta>
+		<dc:description id="description">Four children are reunited with an ancient, magical creature and go on adventures through time with a magic amulet.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>In this conclusion to the <a href="https://standardebooks.org/collections/psammead-trilogy">Psammead trilogy</a>, Cyril, Anthea, Robert, and Jane are reunited with the cantankerous Sand Fairy. While the old creature can’t grant them wishes anymore, he points them towards an old Egyptian amulet that can grant their hearts’ desire—in this case the return of their parents and baby brother. While their amulet is only half of a whole, it still acts as a time portal which they use to visit such locales as Ancient Egypt, Babylon, Atlantis, and even a utopian future in search of the missing part.</p>
+
+			<p>Aside from the Psammead, they encounter several memorable characters, chief among them the Queen of Babylon, who causes quite a stir when she later pays the children a visit in their contemporary London.</p>
+
+			<p>Perhaps one of <a href="https://standardebooks.org/ebooks/e-nesbit">E. Nesbit</a>’s most personal works, <i>The Story of the Amulet</i> benefited from her interest into the ancient world, and particularly Egypt. With the help of A.E. Wallis Budge (to whom the book is dedicated), then Head of the Assyrian Departments of the British Museum and translator of the Egyptian <i>Book of the Dead</i>, she conducted extensive research on the topic and was thus able to bring exquisite attention to details. As an example, the titular amulet is shaped after the tyet, an Egyptian symbol also known as the knot of Isis. Likewise, the inscription at the back of the amulet is written in authentic Egyptian hieroglyphs.</p>
+
+			<p>Her political beliefs are also prominently displayed in this book. A staunch supporter of democratic socialism and a founding member of the Fabian Society, E. Nesbit cultivated friendships with other like-minded writers, such as <a href="https://standardebooks.org/ebooks/george-bernard-shaw">George Bernard Shaw</a> and <a href="https://standardebooks.org/ebooks/h-g-wells">H.G. Wells</a>. She practised what she preached, to the point that, despite her literary successes, her acts of charity brought her close to bankruptcy.</p>
+
+			<p>When the visiting Queen witnesses the squalid living conditions of the London working class, she is amazed at how poorly they are treated compared to the slaves of her own Babylon. The utopian future (which features a wink to her friend H.G. Wells, the “great reformer”) also offers a striking contrast in terms of happiness, care, and education of the general populace. Sadly, this is also one aspect where the book can be considered a product of its times: most of the woes of the working class can be traced back to the greedy financial elites—the kind who reels in horror at the idea of good food being wasted on the poor—all of whom are depicted as crude Jewish caricatures.</p>
+
+			<p>Nevertheless, the book’s legacy can be found in the works of other writers. C.S Lewis incorporated several elements in his <i>Chronicles of Narnia</i> series: most notably, the Calormene civilisation of <i>The Horse and His Boy</i> draws heavily from <i>Amulet</i>’s Babylon, and the scene in <i>The Magician’s Nephew</i> where Jadis, the White Witch, causes chaos during her short stay in London is also a direct homage.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/837</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://books.google.com/books?id=K_MdAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -56,24 +70,24 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-story-of-the-amulet</meta>
 		<dc:creator id="author">E. Nesbit</dc:creator>
 		<meta property="file-as" refines="#author">Nesbit, E.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edith Nesbit</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._Nesbit</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n85097242</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Edward John Poynter</dc:contributor>
+		<meta property="file-as" refines="#artist">Poynter, Edward John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edward_Poynter</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79117147.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jo Churcher</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Churcher, Jo</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">François Grandjean</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grandjean, François</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -87,16 +101,55 @@
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/illustration-1.svg" id="illustration-1.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-2.svg" id="illustration-2.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-3.svg" id="illustration-3.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-4.svg" id="illustration-4.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-5.svg" id="illustration-5.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="chapter-2.xhtml"/>
+		<itemref idref="chapter-3.xhtml"/>
+		<itemref idref="chapter-4.xhtml"/>
+		<itemref idref="chapter-5.xhtml"/>
+		<itemref idref="chapter-6.xhtml"/>
+		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="chapter-8.xhtml"/>
+		<itemref idref="chapter-9.xhtml"/>
+		<itemref idref="chapter-10.xhtml"/>
+		<itemref idref="chapter-11.xhtml"/>
+		<itemref idref="chapter-12.xhtml"/>
+		<itemref idref="chapter-13.xhtml"/>
+		<itemref idref="chapter-14.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
