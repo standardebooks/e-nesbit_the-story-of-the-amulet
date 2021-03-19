@@ -58,7 +58,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/837</dc:source>
 		<dc:source>https://books.google.com/books?id=K_MdAQAAIAAJ</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_the_Amulet</meta>
@@ -73,7 +72,7 @@
 		<dc:contributor id="artist">Edward John Poynter</dc:contributor>
 		<meta property="file-as" refines="#artist">Poynter, Edward John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edward_Poynter</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79117147.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79117147</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jo Churcher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Churcher, Jo</meta>
