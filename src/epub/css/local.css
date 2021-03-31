@@ -81,15 +81,6 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-#chapter-1 blockquote{
-	text-align: center;
-}
-
-#chapter-1 blockquote p{
-	display: inline-block;
-	text-align: initial;
-}
-
 #chapter-8 blockquote p{
 	text-align: center;
 	text-indent: 0;
