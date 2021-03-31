@@ -57,6 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/837</dc:source>
 		<dc:source>https://books.google.com/books?id=K_MdAQAAIAAJ</dc:source>
+		<meta property="se:production-notes">Chapter 12, line 38: modernize-spelling attempts to change “shew” to “show.” Because it is part of a note written by children, it is probably intended to be spelled that way.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_the_Amulet</meta>
