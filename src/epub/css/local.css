@@ -78,7 +78,7 @@ p img{
 	width: auto;
 }
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
