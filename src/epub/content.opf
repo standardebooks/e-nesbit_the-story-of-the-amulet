@@ -60,7 +60,7 @@
 		<dc:source>https://books.google.com/books?id=K_MdAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">Chapter 12, line 38: modernize-spelling attempts to change “shew” to “show.” Because it is part of a note written by children, it is probably intended to be spelled that way.</meta>
 		<meta property="se:word-count">70884</meta>
-		<meta property="se:reading-ease.flesch">82.54</meta>
+		<meta property="se:reading-ease.flesch">82.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Story_of_the_Amulet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-story-of-the-amulet</meta>
 		<dc:creator id="author">E. Nesbit</dc:creator>
